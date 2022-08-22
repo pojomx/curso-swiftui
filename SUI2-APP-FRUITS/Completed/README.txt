@@ -1,1 +1,0 @@
-This folder contains the completed project. You can use it as a reference guide in your learning.
