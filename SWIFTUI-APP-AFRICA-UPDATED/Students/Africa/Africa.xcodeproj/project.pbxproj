@@ -45,6 +45,7 @@
 		A15CBCE328B937B3002EAE05 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15CBCE228B937B3002EAE05 /* VideoPlayerView.swift */; };
 		A15CBCE628B938DF002EAE05 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15CBCE528B938DF002EAE05 /* VideoPlayerHelper.swift */; };
 		A15CBCE828B94269002EAE05 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15CBCE728B94269002EAE05 /* LocationModel.swift */; };
+		A15CBCEA28B9462A002EAE05 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A15CBCE928B9462A002EAE05 /* MapAnnotationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -88,6 +89,7 @@
 		A15CBCE228B937B3002EAE05 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		A15CBCE528B938DF002EAE05 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		A15CBCE728B94269002EAE05 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		A15CBCE928B9462A002EAE05 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,6 +217,7 @@
 				A11FD63128B5243200443DD5 /* ExternalWeblinkView.swift */,
 				A11FD63528B5405600443DD5 /* VideoListItem.swift */,
 				A15CBCE228B937B3002EAE05 /* VideoPlayerView.swift */,
+				A15CBCE928B9462A002EAE05 /* MapAnnotationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				A15CBCE628B938DF002EAE05 /* VideoPlayerHelper.swift in Sources */,
 				A11FD63028B5216B00443DD5 /* InsetMapView.swift in Sources */,
 				A11FD61E28B3EE6C00443DD5 /* CoverImage.swift in Sources */,
+				A15CBCEA28B9462A002EAE05 /* MapAnnotationView.swift in Sources */,
 				A145D8AD28B3CD840027D822 /* VideoListView.swift in Sources */,
 				A11FD63428B53FDA00443DD5 /* VideoModel.swift in Sources */,
 				A145D8B128B3CDB10027D822 /* GalleryView.swift in Sources */,
